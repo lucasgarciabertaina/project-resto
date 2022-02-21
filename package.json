@@ -1,0 +1,25 @@
+{
+  "name": "project-resto",
+  "version": "1.0.0",
+  "description": "REST API for a restaurant that allows to register, cancel, modify and obtain information about a data structure that could be consumed by a customer.",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasgarciabertaina/project-resto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasgarciabertaina/project-resto/issues"
+  },
+  "homepage": "https://github.com/lucasgarciabertaina/project-resto#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
